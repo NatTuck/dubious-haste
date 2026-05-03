@@ -16,6 +16,8 @@ Actions that can fail are resolved with a trait test.
 
 Characters have traits, which unify attributes, skills, and maybe other stuff.
 
+
+
 ## 3. Character Creation
 
 - How players build characters
